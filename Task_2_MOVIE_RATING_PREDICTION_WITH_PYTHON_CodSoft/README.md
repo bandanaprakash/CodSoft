@@ -1,4 +1,4 @@
-# Movie Rating Prediction with Python
+# TASK 2: Movie Rating Prediction with Python
 
 ## Overview
 * Develop a predictive model: In this project, we are going to use machine learning models to predict IMDB ratings of any particular movie based on the provided dataset.
