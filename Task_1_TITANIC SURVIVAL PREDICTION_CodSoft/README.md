@@ -1,4 +1,4 @@
-# Titanic Survival Prediction
+# TASK 1: Titanic Survival Prediction
 ## Overview
 * Developed a predictive model to determine survival likelihood on the Titanic dataset.
 * Utilized several classification models to predict survival
