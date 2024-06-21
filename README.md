@@ -1,11 +1,11 @@
-#CODSOFT Data Science Internship
+# CODSOFT Data Science Internship
 Welcome to my CODSOFT Data Science Internship Portfolio! In this repository, you will find a collection of projects that I have completed during my internship at CODSOFT. Each project showcases my skills in data analysis, machine learning, and problem-solving.
 
-#INTRODUCTION:
+## INTRODUCTION:
 I am thrilled to share my journey during the CODSOFT Data Science Internship, where I had the opportunity to work on any three of five exciting projects/tasks that delved into different aspects of data science. This internship has been an invaluable learning experience, and I am excited to showcase the results of my hard work. Below are the tasks given by CODSOFT during this internship journey:
 
 #DATA SCIENCE TASKS:
-#TASK 1: TITANIC SURVIVAL PREDICTION
+* TASK 1: TITANIC SURVIVAL PREDICTION
 
 SOURCE: https://www.kaggle.com/datasets/yasserh/titanic-dataset/
 TASK: Use the Titanic dataset to build a model that predicts whether a passenger on the Titanic survived or not. This is a classic beginner project with readily available data. The dataset typically used for this project contains information about individual passengers, such as their age, gender, ticket class, fare, cabin, and whether or not they survived.
