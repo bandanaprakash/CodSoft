@@ -6,14 +6,14 @@
 * Identify influential factors: Analyze the dataset to determine which factors (e.g., genre, director, actors) have the most significant impact on movie ratings.
 * Provide actionable insights: Offer insights to the film industry stakeholders to make informed decisions about movie production, casting, and marketing.
 
-##Project Details
+## Project Details
 * Objective: Movie Rating Prediction with Python
 * Model Used: Linear Regression, Random Forest, Decision Tree Regression, Extended Gradient Boosting, Gradient Boosting, Support Vector Regression, K Nearest Neighbors from Scikit-learn.
 * Best Model: Random Forest
 * R-squared score achieved: 93.5%
 * Mean Squared Error (MSE): 0.12
   
-##Key Insights
+## Key Insights
 
 * Data cleaning was essential, involving the correction of typos and handling missing/duplicated values.
 * Explored the temporal dimension of the data, noting the first entry in 1931 and a movie with just 45 minutes of duration.
